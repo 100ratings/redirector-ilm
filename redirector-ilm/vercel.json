@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "mkm.lol" }],
+      "destination": "https://gooqlc.com/13174",
+      "permanent": true
+    }
+  ]
+}
