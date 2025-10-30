@@ -5,6 +5,12 @@
       "has": [{ "type": "host", "value": "ilm.lol" }],
       "destination": "https://gooqlc.com/13174",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "x.ilm.lol" }],
+      "destination": "https://googleimagem.com",
+      "permanent": true
     }
   ]
 }
