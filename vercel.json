@@ -2,21 +2,36 @@
   "redirects": [
     {
       "source": "/",
-      "has": [{ "type": "host", "value": "ilm.lol" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "ilm.lol"
+        }
+      ],
       "destination": "https://gooqlc.com/3886",
       "permanent": true
     },
     {
       "source": "/",
-      "has": [{ "type": "host", "value": "x.ilm.lol" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "x.ilm.lol"
+        }
+      ],
       "destination": "https://googleimagem.com",
       "permanent": true
     },
     {
       "source": "/",
-      "has": [{ "type": "host", "value": "www.ilm.lol" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.ilm.lol"
+        }
+      ],
       "destination": "https://ilm.lol",
       "permanent": true
-    }
-  ]
+    }
+  ]
 }
