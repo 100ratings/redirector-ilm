@@ -16,10 +16,10 @@
       "has": [
         {
           "type": "host",
-          "value": "x.ilm.lol"
+          "value": "www.ilm.lol"
         }
       ],
-      "destination": "https://googleimagem.com",
+      "destination": "https://ilm.lol",
       "permanent": true
     },
     {
@@ -27,12 +27,121 @@
       "has": [
         {
           "type": "host",
-          "value": "www.ilm.lol"
+          "value": "b.ilm.lol"
         }
       ],
-      "destination": "https://ilm.lol",
+      "destination": "https://gooqlc.com/186",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "d.ilm.lol"
+        }
+      ],
+      "destination": "http://quicksketch.co/481516",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "e.ilm.lol"
+        }
+      ],
+      "destination": "https://iyt.pw/3886",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "f.ilm.lol"
+        }
+      ],
+      "destination": "https://tinyhost.pw/list/JbEOC9haJ/CM6U6Lx9eDQ1",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "g.ilm.lol"
+        }
+      ],
+      "destination": "https://pag.gg/358",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "j.ilm.lol"
+        }
+      ],
+      "destination": "https://11z.co/a/jfk123.webp",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "m.ilm.lol"
+        }
+      ],
+      "destination": "https://tinyhost.pw/list/s32vz5JVg/CM6U6Lx9eDQ1",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "p.ilm.lol"
+        }
+      ],
+      "destination": "https://paint.land/Draw/481516",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "t.ilm.lol"
+        }
+      ],
+      "destination": "https://gooqlc.com/12773",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "w.ilm.lol"
+        }
+      ],
+      "destination": "https://wikiepiedia.org/pta",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "x.ilm.lol"
+        }
+      ],
+      "destination": "https://googleimagem.com",
       "permanent": true
     }
   ]
 }
-
